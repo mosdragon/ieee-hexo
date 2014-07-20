@@ -33,7 +33,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 highlight:
   enable: true
@@ -57,10 +57,10 @@ tag: 2
 ## Hexo uses Connect as a server
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
-port: 4000
+port: 3000
 server_ip: 0.0.0.0
-logger: false
-logger_format:
+logger: true
+logger_format: dev
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
