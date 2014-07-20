@@ -6,12 +6,12 @@ The site now uses the [Hexojs blogging framework](https://github.com/hexojs/hexo
 Here is the new workflow for how new posts will be added to the site:
 
 1. Officer/Member will create a Google Doc with proposed content for the new post (title, content, images, etc)
-2. The Doc will be emailed/shared with the Webmaster
+2. The doc will be emailed/shared with the Webmaster
 3. Webmaster will format content [here](http://markable.in/editor/)  and save images in a folder titled _images_
 4. Webmaster will run the following commands in a terminal prompt:<br>
 _(note: you will need [Node](http://nodejs.org) and the npm package [hexo](https://github.com/hexojs/hexo))_
 <pre>
-$ git clone https://github.com/mosdragon/ieee-hexo/tree/test
+$ git clone https://github.com/mosdragon/ieee-hexo
 $ cd ieee-hexo
 $ npm install
 $ hexo new post <code>post-title-here</code>

@@ -1,10 +1,20 @@
 title: Sponsors
 date: 2014-07-19 15:54:34
 ---
-<img src="./index/images/bosch.png" height="150px" width="150px" alt="Bosch">
-<img src="./index/images/burns.png" height="150px" width="150px" alt="Bosch">
-<img src="./index/images/cisco.png" height="150px" width="150px" alt="Bosch">
-<br>
+<style>
+.sponsor {
+  height: 150px;
+  width: 150px;
+}
+
+#bosch {
+  background-image: url("./index/images/bosch.png");
+}
+</style>
+
+<div class="sponsorPic"><img src="./index/images/bosch.png" class="fancybox" height="150px" width="150px"/></div>
+<img src="./index/images/bosch.png" class="fancybox" height="150px" width="150px"/>
+<img src="./index/images/bosch.png" class="sponsor" height="150px" width="150px"/>
 
 <img src="./index/images/citadelgroup.png" height="150" width="150px" alt="Bosch"/>
 <img src="./index/images/cloudflare.png" height="150" width="150px" alt="Bosch"/>
