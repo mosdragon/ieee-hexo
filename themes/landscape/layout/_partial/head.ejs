@@ -6,7 +6,7 @@
   var title = page.title;
 
   if (is_archive()){
-    title = 'Archives';
+    title = 'Blog';
 
     if (is_month()){
       title += ': ' + page.year + '/' + page.month;
@@ -29,6 +29,8 @@
     <link rel="icon" href="<%- theme.favicon %>">
   <% } %>
   <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  <script src="js/bootstrap.min.js"></script>
   <%- css('css/style') %>
+  <%- css('css/bootstrap.min.css') %>
   <%- partial('google-analytics') %>
 </head>

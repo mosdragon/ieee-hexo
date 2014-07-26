@@ -1,12 +1,12 @@
 # Header
 menu:
   Home: index
+  Blog: blog
   About: about
   Join: join
   Sponsors: sponsors
   Contact: contact
   Profiles: profiles
-  Archives: archives
 rss: /atom.xml
 
 # Content
