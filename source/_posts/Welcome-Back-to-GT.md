@@ -1,6 +1,7 @@
 title: Welcome Back to GT!
 date: 2014-07-20 10:42:30
-tags: General
+tags: [General, IEEE]
+categories: [Innovation]
 ---
 
 ### You There!

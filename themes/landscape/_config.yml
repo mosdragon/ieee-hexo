@@ -18,8 +18,8 @@ sidebar: right
 widgets:
 - category
 - tag
-- tagcloud
-- archive
+# - tagcloud
+# - archive
 - recent_posts
 
 # Miscellaneous
