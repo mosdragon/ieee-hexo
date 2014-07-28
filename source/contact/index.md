@@ -1,19 +1,24 @@
 title: Contacting IEEE@GT
 date: 2014-07-20 10:52:26
 ---
-##Say Hello to Any Member of Our Lovely Officer Board
+
+ Say hello to any member of our lovely offficer board!
+
+
+
+||||
+|:-:|:-:|:-:|
+| Chair | Dorrier Coleman | <a href="mailto:chair@ieee.gatech.edu">chair@ieee.gatech.edu</a> |
 
 
 <div class="container">
   <div class="row">
-  <h2>
-    <div class="col-xs-2">Chair</div> <div class="col-xs-2">Chair</div> <div class="col-xs-2">Chair</div>
-  </h2>
+    <div class="small-6 large-2 columns">Chair</div>
+    <div class="small-6 large-8 columns">Dorrier Coleman</div>
+    <div class="small-12 large-2 columns">[chair@ieee.gatech.edu](mailto:chair@ieee.gatech.edu)</div>
   </div>
 </div>
 
-<br/>
-Chair | Patrick Doyle | chair@ieee.gatech.edu
 Vice Chair External
 Dorrier Coleman
 vce@ieee.gatech.edu

@@ -35,7 +35,7 @@ __Company Presentations__ - We have corporate presentations nearly every week. T
 
 __Faculty Presentations__ - We bring in faculty members from Georgia Tech to talk about their research.This presents a great opportunity to make contact with the professors and get involved in faculty research projects.
 
-Leadership, School Involvement, and Networking - Elections are held every year in March and everyone is encouraged to run for a position. We are always looking for additional help with the events we plan, so there are many opportunities to get involved whether or not you are an officer.
+__Leadership, School Involvement, and Networking__ - Elections are held every year in March and everyone is encouraged to run for a position. We are always looking for additional help with the events we plan, so there are many opportunities to get involved whether or not you are an officer.
 
 __Competitions and Regional Events__ - IEEE is involved in a number of different regional competitions, scholarships, and events. Our student members are welcome to participate in any of these events.
 

@@ -88,6 +88,10 @@ exclude_generator:
 # deploy:
 #   type:
 
+# hexo-tag-emojis plugin configuration
+emojis:
+  image_dir: images/emojis
+
 feed:
   type: atom
   path: atom.xml
