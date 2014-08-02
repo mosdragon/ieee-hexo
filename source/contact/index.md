@@ -3,9 +3,11 @@ date: 2014-07-20 10:52:26
 ---
 
 Need to reach out to us for Sponsorships, Workshops, Job Opportunities, and more? Email works wonders these days!
+
 __Email:__ <contact@ieee.gatech.edu>
 
 Want to send some us some presents? Send 'em right here:
+
 __Address:__
 Georgia Tech IEEE Student Branch
 350267 Georgia Tech Station
@@ -13,24 +15,24 @@ Atlanta, Georgia 30332
 
 Say hello to any member of our lovely officer board!
 
-Chair
-Dorrier Coleman
+__Chair__
+_Dorrier Coleman_
 <chair@ieee.gatech.edu>
 
-Vice Chair External
-Matthew Arceri
+__Vice Chair External__
+_Matthew Arceri_
 <vce@ieee.gatech.edu>
 
-Vice Chair Internal
-Jennifer Hunter
+__Vice Chair Internal__
+_Jennifer Hunter_
 <vci@ieee.gatech.edu>
 
-Treasurer
-Noah Luskey
+__Treasurer__
+_Noah Luskey_
 <treasurer@ieee.gatech.edu>
 
-Secretary
-Jennifer Hunter
+__Secretary__
+_Jennifer Hunter_
 <secretary@ieee.gatech.edu>
 
 Webmaster
