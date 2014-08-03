@@ -6,21 +6,24 @@ Need to reach out to us for Sponsorships, Workshops, Job Opportunities, and more
 
 __Email:__ <contact@ieee.gatech.edu>
 
-Want to send some us some presents? Send 'em right here:
+
+Need to send us anything? Preferably chocolates and breadboards? Send 'em right here:
 
 __Address:__
 Georgia Tech IEEE Student Branch
 350267 Georgia Tech Station
 Atlanta, Georgia 30332
 
-Say hello to any member of our lovely officer board!
+
+###Officer Board for the 2014-2015 School Year
+Feel free to leave comments and suggestions with any of our lovely officers!
 
 __Chair__
 _Dorrier Coleman_
 <chair@ieee.gatech.edu>
 
 __Vice Chair External__
-_Matthew Arceri_
+_Matthew Arceri II_
 <vce@ieee.gatech.edu>
 
 __Vice Chair Internal__
@@ -32,45 +35,41 @@ _Noah Luskey_
 <treasurer@ieee.gatech.edu>
 
 __Secretary__
-_Jennifer Hunter_
+_Adhithya Rajasekaran_
 <secretary@ieee.gatech.edu>
 
-Webmaster
-Osama Sakhi
+__Webmaster__
+_Muhammad Osama Sakhi_
 <webmaster@ieee.gatech.edu>
 
-Innovation Team Captain
-Harsha Nori
+__Innovation Team Captains__
+_Harsha Nori, Madeleyne Vaca, & Max Bires_
 <innovation@ieee.gatech.edu>
 
-Hardware Team Captain
-Jay Poddar
+__Hardware Team Captains__
+_Jay Poddar & Tianhao Li_
 <hardware@ieee.gatech.edu>
 
-Tutoring Services Chair
-Jessica Block
+__Tutoring Services Chair__
+_Jessica Block_
 <tutoring@ieee.gatech.edu>
 
-Technical Development Chair
-Jonathan Ting
+__Technical Development Chair__
+_Hongfei Li_
 <techdev@ieee.gatech.edu>
 
-Communications Chairs
-Emily Pitts & Kristen Fernandez
+__Communications Chairs__
+_Emily Pitts & Kristen Fernandez_
 <communications@ieee.gatech.edu>
 
-Student Recruitment Chair
-Javier Rodriguez
-<recruitment@ieee.gatech.edu>
-
-Events Chair
-Shai Messingher
+__Student Involvement Chair__
+_Javier Rodriguez_
 <events@ieee.gatech.edu>
 
-CCNA Instructor
-Yuqing Peng
+__CCNA Instructor__
+_Yuqing Peng_
 <ccna@ieee.gatech.edu>
 
-Faculty Advisor
-Dr. Elliot Moore
+__Faculty Advisor__
+_Dr. Elliot Moore_
 <faculty@ieee.gatech.edu>

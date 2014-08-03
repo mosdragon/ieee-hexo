@@ -10,10 +10,10 @@ Throughout the year, we continually build and design a functional robot to compe
 
 Check out our [Wiki](http://ieee-hardware.gatech.edu/wiki/Main_Page) if you’re interested in seeing how our projects have turned out so far.
 
-Feel free to contact our Team Captain for suggestions and questions:
+Feel free to contact our Team Captains for suggestions and questions:
 
-Jay Poddar : <hardware@ieee.gatech.edu>
+_Jay Poddar & Tianhao Li_ : <hardware@ieee.gatech.edu>
 
 __Meetings__
 Mondays 7:30 pm
-Van Leer TBA
+Van Leer 445C

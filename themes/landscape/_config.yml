@@ -1,14 +1,15 @@
 # Header
 menu:
   Home: /
-  Blog: blog
   About: about
   Join: join
+  Tutoring: tutoring
   Innovation: innovation
   Hardware: hardware
   Sponsors: sponsors
   Contact Us: contact
   Profiles: profiles
+  Blog: blog
 rss: /atom.xml
 
 # Content

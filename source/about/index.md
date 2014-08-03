@@ -13,3 +13,5 @@ __Becoming a Member__ - IEEE membership is open to professionals with varying le
 ###[Sign up Today][join]
 
 [join]: ../join
+
+Feel free to also check out our [Bylaws](../bylaws) if you're interested in our leadership opportunities.
