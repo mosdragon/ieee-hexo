@@ -3,7 +3,9 @@ date: 2014-07-20 10:51:57
 ---
 ###Classes driving you nuts? We’ve gotcha covered!
 
-Make sure to stop by the Van Leer Fish Bowl (W100) for all your ECE tutoring needs throughout the week.
+We're working with our student tutors this year to work out a tutoring schedule. Check back within the first few weeks of the semester, we'll make sure we get rolling within the first 4 weeks of classes.
+
+<!-- Make sure to stop by the Van Leer Fish Bowl (W100) for all your ECE tutoring needs throughout the week.
 
 __2020__: _Mondays_ 4:00-6:00pm, _Tuesdays_ 6:00-8:00pm, _Fridays_ 12:00-2:00pm
 
@@ -21,4 +23,4 @@ __3043__: _Mondays_ 2:00-4:00pm
 
 __3084__: _Tuesdays_ 9:00-11:00am
 
-__3710__: _Wednesdays_ 4:00-6:00pm
+__3710__: _Wednesdays_ 4:00-6:00pm -->

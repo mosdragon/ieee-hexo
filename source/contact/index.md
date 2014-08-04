@@ -50,8 +50,8 @@ __Hardware Team Captains__
 _Jay Poddar & Tianhao Li_
 <hardware@ieee.gatech.edu>
 
-__Tutoring Services Chair__
-_Jessica Block_
+__Tutoring Services Chairs__
+_Ramprasath Rajagopal & Chris Allen_
 <tutoring@ieee.gatech.edu>
 
 __Technical Development Chair__

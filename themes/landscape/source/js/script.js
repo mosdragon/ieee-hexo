@@ -90,10 +90,10 @@
     $(this).find('img').each(function(){
       if ($(this).parent().hasClass('fancybox')) return;
 
-      if($(this).hasClass('sponsors')) {
+      if($(this).hasClass('emoji')) {
         var alt = this.alt;
-        if (alt) $(this).after('<span class="caption">' + alt + '</span>');
-        $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class=""></a>');
+        // if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+        // $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class=""></a>');
       } else {
         var alt = this.alt;
         if (alt) $(this).after('<span class="caption">' + alt + '</span>');
