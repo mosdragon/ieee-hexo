@@ -12,8 +12,8 @@ language: English
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://osama.sakhi.es/hexo
-root: /hexo/
+url: https://ieee.gatech.edu/test
+root: /test
 permalink: :year/:month/:title/
 tag_dir: tags
 archive_dir: blog
