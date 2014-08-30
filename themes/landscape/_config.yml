@@ -11,7 +11,7 @@ menu:
   Contact Us: contact
   Profiles: profiles
   # Blog: blog
-rss: /atom.xml
+# rss: /atom.xml
 
 # Content
 excerpt_link: Read More
