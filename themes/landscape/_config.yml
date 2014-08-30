@@ -1,15 +1,16 @@
 # Header
 menu:
-  Home: /
+  Home:
   About: about
   Join: join
+  Calendar: calendar
   Tutoring: tutoring
   Innovation: innovation
   Hardware: hardware
   Sponsors: sponsors
   Contact Us: contact
   Profiles: profiles
-  Blog: blog
+  # Blog: blog
 rss: /atom.xml
 
 # Content
@@ -21,13 +22,13 @@ sidebar: right
 widgets:
 - category
 - tag
-# - tagcloud
+- tagcloud
 # - archive
 - recent_posts
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+favicon: css/images/favicon.png
 twitter: gtieee
 google_plus:
 fb_admins:

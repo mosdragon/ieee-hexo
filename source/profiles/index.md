@@ -15,6 +15,7 @@ date: 2014-07-20 10:57:05
 
 </style>
 
+<br/>
 ####Osama Sakhi
 <div class="row">
   <div class="small-12 medium-6 columns"><img class="member" src="index/img/osama.jpg"/></div><div class="small-12 medium-6 columns">I'm a second year student here at Georgia Tech studying Computer Science, and I'm also the Webmaster for IEEE. I'm a Linux fanatic and I enjoy working on web apps in my spare time. I've completed internships at Standard Code and BitPay, I'm mainly involved with the startup community  here in Atlanta. My interests at the moment are Robotics, AI, and Modeling and Simulation.<br/><br/>

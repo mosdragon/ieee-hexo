@@ -40,3 +40,4 @@ title: IEEE Sponsors
 <div class="row">
   <div class="small-12 medium-6 large-6 columns"><img src="./index/images/united.png" height="150" width="150px" alt="United Technologies"/></div><div class="small-12 medium-6 large-6 columns"><img src="./index/images/up.png" height="150" width="150px" alt="Union Pacific"/></div>
 </div>
+<br/><br/>
