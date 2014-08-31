@@ -1,7 +1,7 @@
 The New Georgia Tech IEEE Site
 ==============================
 
-We now use the [Hexojs blogging framework](https://github.com/hexojs/hexo) to generate and deploy the static HTML content from simple Markdown documents.
+We now use the [Hexojs blogging framework](https://github.com/hexojs/hexo) to generate and deploy the static HTML content from simple Markdown documents. You'll need [Git](http://git-scm.com/book/en/Getting-Started-Installing-Git), [Node.js](http://nodejs.org), and a solid text editor (i.e. [Sublime](http://sublimetext.com) or [Atom](http://atom.io)) to create any content.
 
 Here is the new workflow for how new posts will be added to the site:
 
@@ -25,7 +25,7 @@ Here is the new workflow for how new posts will be added to the site:
   ```
 5. Place any images included in post in the _source/_posts/post-title/_ folder. Wherever the picture is needed in the post, place the following snippet of code <br/>
   ```
-  <img src="post-title/img-name.png">
+  ![<optional-subtitle-here>](post-title/img-name.png)
   ```
 6. Preview changes locally by running the following terminal command:
   ```
