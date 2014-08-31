@@ -6,7 +6,7 @@ We now use the [Hexojs blogging framework](https://github.com/hexojs/hexo) to ge
 Here is the new workflow for how new posts will be added to the site:
 
 1. Post will be written in Markdown [here](http://markable.in/editor/)
-2. The following terminal commands will be executed:
+2. The following terminal commands will be executed: <br/>
   ```
   git clone https://github.com/mosdragon/ieee-hexo
   cd ieee-hexo # git pull origin master if you didn't need to clone
