@@ -12,8 +12,8 @@ language: English
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://ieee.gatech.edu/test
-root: /test
+url: https://ieee.gatech.edu
+root: /
 permalink: :year/:month/:title/
 tag_dir: tags
 archive_dir: blog
@@ -88,11 +88,21 @@ exclude_generator:
 # deploy:
 #   type:
 
+deploy:
+  type: rsync
+  host: ieee.gatech.edu
+  user: ieee
+  root: /httpsdocs
+  # port: [port]
+  delete: false
+  verbose: true
+  ignore_errors: false
+
 # hexo-tag-emojis plugin configuration
 emojis:
   image_dir: images/emojis
 
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
+# feed:
+#   type: atom
+#   path: atom.xml
+#   limit: 20
