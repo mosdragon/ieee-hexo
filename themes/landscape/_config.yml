@@ -27,7 +27,7 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-54349005-1
 favicon: css/images/favicon.png
 twitter: gtieee
 google_plus:
