@@ -94,7 +94,7 @@ deploy:
   user: ieee
   root: /httpsdocs
   # port: [port]
-  delete: false
+  delete: true
   verbose: true
   ignore_errors: false
 

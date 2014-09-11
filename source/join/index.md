@@ -4,8 +4,16 @@ date: 2014-07-20 10:52:05
 
 Here's how you can be a part of the IEEE@GT family:
 
-1. Complete a student application [here](http://www.ieee.org/go/join_student). Fees are $32 annually.
-2. Join our Newsletter [here](http://gt-ieee.us5.list-manage.com/subscribe?u=a42ec30139b77172f44401aa5&id=a4ddfb6da0)
+1. Begin a student application [here](http://www.ieee.org/go/join_student). Fees are $32 annually.
+  + When prompted, click "Create Account"
+  + Fill in the first form with your name and email address. Then click "Create Account and Continue Joining"
+  + When prompted, fill in additional contact information and click "Save"
+  + Next, make sure to indicate that you are a student joining IEEE, and enter the degree your are pursuing. Lastly, don't forget to save
+  + As you scroll down, there will be many specific magazines to subscribe to. You're welcome to sign up for any that you wish, but IEEE student membership ($32) will already be selected for you as you scroll down
+  + Complete the "Additional Information" section and click "Proceed to Checkout" at the very bottom
+  + Enter your billing information here. At the bottom of the page, click "Printable order version(PDF)" to get your membership ID. You'll need this ID for the newsletter, so be sure to write it down. Lastly, finish with "Complete Membership Order & Checkout"
+
+2. Join our Newsletter [here](http://gt-ieee.us5.list-manage.com/subscribe?u=a42ec30139b77172f44401aa5&id=a4ddfb6da0) and be sure to enter your membership ID from __Step 1__ where prompted
 
 #Get Started
 

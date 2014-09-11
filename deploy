@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "
+Deleting local public directory"
+hexo clean
+
+echo "
+
+Generating new local public directory"
+hexo generate
+
+echo "
+
+Deploying to ieee.gatech.edu"
+hexo deploy

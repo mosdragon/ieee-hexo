@@ -3,7 +3,10 @@ date: 2014-07-20 10:51:57
 ---
 ###Classes driving you nuts? We’ve gotcha covered!
 
-We're working with our student tutors this year to work out a tutoring schedule. Check back within the first few weeks of the semester, we'll make sure we get rolling within the first 4 weeks of classes.
+Here is the tutoring schedule for Fall 2014:
+
+
+<img src = "index/schedule.png" />
 
 <!-- Make sure to stop by the Van Leer Fish Bowl (W100) for all your ECE tutoring needs throughout the week.
 
