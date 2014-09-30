@@ -15,5 +15,5 @@ Feel free to contact our Team Captains for suggestions and questions:
 _Jay Poddar & Tianhao Li_ : <hardware@ieee.gatech.edu>
 
 __Meetings__
-Mondays 7:30 pm
+Wednesdays 7:30 pm
 Van Leer 445C

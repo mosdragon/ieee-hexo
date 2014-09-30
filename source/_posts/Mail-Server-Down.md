@@ -1,23 +1,10 @@
-title: Contacting IEEE@GT
-date: 2014-07-20 10:52:26
+title: Mail Server Down
+date: 2014-09-30 10:06:55
+categories: General
 ---
+We are experiencing some technical difficulties with our mailing server at this time, so emails directed towards certain officers must go to their Georgia Tech emails at this time:
 
-Need to reach out to us for Sponsorships, Workshops, Job Opportunities, and more? Email works wonders these days!
-
-__Email:__ <contact@ieee.gatech.edu>
-
-
-Need to send us anything? Preferably chocolates and breadboards? Send 'em right here:
-
-__Address:__
-Georgia Tech IEEE Student Branch
-350267 Georgia Tech Station
-Atlanta, Georgia 30332
-
-
-###Officer Board for the 2014-2015 School Year
-Feel free to leave comments and suggestions with any of our lovely officers!
-
+We apologize for the inconvenience, but their emails have been listen below:
 <p>
 __Chair__
 _Dorrier Coleman_
